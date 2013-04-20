@@ -8,6 +8,15 @@ Usage
 
     $("#myForm").formLocator();
 
+Demo
+----
+* [Default (No Options)](http://jsfiddle.net/cNDk2/4/)
+* [Hidden](http://jsfiddle.net/cNDk2/5/)
+* [Without Fieldset](http://jsfiddle.net/cNDk2/6/)
+* [Custom Fieldset Class](http://jsfiddle.net/cNDk2/7/)
+* [Show Specific Fields](http://jsfiddle.net/cNDk2/8/)
+* [Show Specific Fields and Label (with custom label)](http://jsfiddle.net/cNDk2/9/)
+
 Options
 -------
 
@@ -64,15 +73,6 @@ Options
               ...
             }
     });
-
-Demo
-----
-* [Default (No Options)](http://jsfiddle.net/cNDk2/4/)
-* [Hidden](http://jsfiddle.net/cNDk2/5/)
-* [Without Fieldset](http://jsfiddle.net/cNDk2/6/)
-* [Custom Fieldset Class](http://jsfiddle.net/cNDk2/7/)
-* [Show Specific Fields](http://jsfiddle.net/cNDk2/8/)
-* [Show Specific Fields and Label (with custom label)](http://jsfiddle.net/cNDk2/9/)
 
 
 License (MIT)
