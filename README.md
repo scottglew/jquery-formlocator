@@ -3,6 +3,15 @@ jQuery Form Locator
 
 Stop asking users for their country or state when filling out a form on your site. Apply this plugin to any form to automatically add hidden (or visible) fields to the form with the user's location information. Alternatively populate your own fields forms with location data. 
 
+Demos
+-----
+* [Default (No Options)](http://jsfiddle.net/cNDk2/4/)
+* [Hidden](http://jsfiddle.net/cNDk2/5/)
+* [Without Fieldset](http://jsfiddle.net/cNDk2/6/)
+* [Custom Fieldset Class](http://jsfiddle.net/cNDk2/7/)
+* [Show Specific Fields](http://jsfiddle.net/cNDk2/8/)
+* [Show Specific Fields and Label (with custom label)](http://jsfiddle.net/cNDk2/9/)
+
 Usage
 -----
 
@@ -64,16 +73,6 @@ Options
               ...
             }
     });
-
-Demo
-----
-* [Default (No Options)](http://jsfiddle.net/cNDk2/4/)
-* [Hidden](http://jsfiddle.net/cNDk2/5/)
-* [Without Fieldset](http://jsfiddle.net/cNDk2/6/)
-* [Custom Fieldset Class](http://jsfiddle.net/cNDk2/7/)
-* [Show Specific Fields](http://jsfiddle.net/cNDk2/8/)
-* [Show Specific Fields and Label (with custom label)](http://jsfiddle.net/cNDk2/9/)
-
 
 License (MIT)
 -------------
