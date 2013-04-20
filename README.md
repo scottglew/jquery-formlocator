@@ -6,13 +6,13 @@ Stop asking users for their country or state when filling out a form on your sit
 Usage
 -----
 
-  $("#myForm").formLocator();
+    $("#myForm").formLocator();
 
 Options
 -------
 
-  $("#myForm").formLocator({
-    serviceURL : "http://freegeoip.net/json/", // this service returns json object of location data. See fieldOverrides below for list of fields returned. 
+    $("#myForm").formLocator({
+      serviceURL : "http://freegeoip.net/json/", // this service returns json object of location data. See fieldOverrides below for list of fields returned. 
         hidden : false, // creates all the new location fields as hidden fields. 
         inputClass : "lc8_input", // specify a custom class for the text input fields that get created. Separate multiple classes with spaces (class1 class2 class3)
         labelClass : "lc8_label", // specify a custom class for the label fields that get created. Separate multiple classes with spaces (class1 class2 class3)
@@ -63,7 +63,7 @@ Options
             zipcode: {
               ...
             }
-  });
+    });
 
 Demo
 ----
