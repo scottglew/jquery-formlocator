@@ -63,7 +63,6 @@ Options
             zipcode: {
               ...
             }
-            
   });
 
 Demo
