@@ -170,9 +170,13 @@
             }
         }, options);  
           
-        settings.formID = this[0].id;
-              
-        locate();
+        if (this.length > 0) {
+          settings.formID = this[0].id;
+          locate();
+        }
+        else {
+           $.error( "No form with id: " + this.selector );
+        }
         return this; //maintain chainability
       },
 
