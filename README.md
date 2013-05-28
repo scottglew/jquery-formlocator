@@ -5,13 +5,13 @@ Stop asking users for their country or state when filling out a form on your sit
 
 Demos
 -----
-* [Default (No Options)](http://jsfiddle.net/cNDk2/4/)
-* [Hidden](http://jsfiddle.net/cNDk2/5/)
-* [Populating existing form fields](http://jsfiddle.net/cNDk2/10/)
-* [Without Fieldset](http://jsfiddle.net/cNDk2/6/)
-* [Custom Fieldset Class](http://jsfiddle.net/cNDk2/7/)
-* [Show Specific Fields](http://jsfiddle.net/cNDk2/8/)
-* [Show Specific Fields and Label (with custom label)](http://jsfiddle.net/cNDk2/9/)
+* [Default (No Options)](http://jsfiddle.net/scottglew/RmrnV/)
+* [Hidden](http://jsfiddle.net/scottglew/RmrnV/1/)
+* [Populating existing form fields](http://jsfiddle.net/scottglew/RmrnV/2/)
+* [Without Fieldset](http://jsfiddle.net/scottglew/RmrnV/3/)
+* [Custom Fieldset Class](http://jsfiddle.net/scottglew/RmrnV/4/)
+* [Show Specific Fields](http://jsfiddle.net/scottglew/RmrnV/5/)
+* [Show Specific Fields and Label (with custom label)](http://jsfiddle.net/scottglew/RmrnV/6/)
 
 
 Usage
