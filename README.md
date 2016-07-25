@@ -34,7 +34,7 @@ Options
             ip : {
               hidden : true, // shows/hides this field. Overrides the global settings.hidden option for this field.
               showLabel : false, // shows/hides this field's label.
-              inputID : "myCustomInput", // specify an ID if you want to populate one of your own form's text inputs. Otheriwse, a text input field will be created and appended to the form.
+              inputID : "myCustomInput", // specify an ID if you want to populate one of your own form's text inputs. otherwise, a text input field will be created and appended to the form.
               labelID : "myCustomLabel", // specify an id if you want to populate your own label field.
               labelText : "My Custom Label Text" // your own custom label text. Otherwise the default field names are used (such as country_name, metro_code etc).
             },
